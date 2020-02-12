@@ -1,0 +1,2 @@
+# TrainGit
+traning git basic
